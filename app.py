@@ -15,9 +15,6 @@ Original file is located at
 # print('Hello World!')
 #
 
-from google.colab import drive
-drive.mount('/content/drive')
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
