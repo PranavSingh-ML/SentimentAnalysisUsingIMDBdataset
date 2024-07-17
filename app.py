@@ -23,7 +23,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-file_path='/content/drive/MyDrive/IMDB Dataset.csv/barbie_Cleaned.csv'
+file_path='/content/app.py'
 df=pd.read_csv(file_path)
 
 # Get a quick glimpse of the first few rows
